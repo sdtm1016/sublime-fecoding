@@ -1,22 +1,10 @@
 {
-  // Simply using `node` without specifying a path sometimes doesn't work :(
-  // http://nodejs.org/#download
   "node_path": {
     "windows": "C:/Program Files/nodejs/node.exe",
     "linux": "/usr/bin/nodejs",
     "osx": "/usr/local/bin/node"
   },
-
-  // plugins list
-  "plugins": {
-    "init": {
-      "scripts": "./plugins/init/init.js"
-    }
-  },
-
-  // open debug mode
+  "plugins": { },
   "debug": false,
-
-  // format on save
   "do_on_save": true
 }

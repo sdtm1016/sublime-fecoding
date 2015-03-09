@@ -17,5 +17,5 @@
 
 # setup
 
-Contextmenu -> Fecoding -> Init
+Tools -> Fecoding -> Init
 

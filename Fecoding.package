@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "format",
+    "nodetpl",
+    "uploader",
+    "svn",
+    "init"
+  ]
+}
