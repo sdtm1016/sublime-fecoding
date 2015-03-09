@@ -1,0 +1,10 @@
+[{
+  "caption": "Fecoding",
+  "children": [{
+    "caption": "Init",
+    "command": "fecoding",
+    "args": {
+      "action": "init"
+    }
+  }]
+}]
