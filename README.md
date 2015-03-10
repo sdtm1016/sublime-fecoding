@@ -14,6 +14,8 @@ note: node.js is required.
 
 auto:
 
+Preferences -> Package Control -> Install Package
+
 type 'fecoding' and install
 
 mannal:
@@ -22,10 +24,12 @@ mannal:
 * create a folder named 'Fecoding'
 * put the files to 'Fecoding' directory
 
-# setup
+# first use
 
-You may setup this plugin before use:
+You must setup this plugin before the first use:
 
 Tools -> Fecoding -> Init
 
-Ok, contextmenu now is ok.
+Ok, right click in any document, the contextmenu now is ok.
+
+
