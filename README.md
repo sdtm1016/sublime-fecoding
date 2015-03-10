@@ -1,6 +1,6 @@
-# sublime-fecoding
+# Fecoding plugin for Sublime Text
 
-sublime text package for frount-end coding developers.
+sublime text plugins for front-end coding developers.
 
   * css format
   * js format
