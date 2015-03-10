@@ -1,13 +1,14 @@
 # sublime-fecoding
 
-  sublime text package for frount-end coding developers.
+sublime text package for frount-end coding developers.
 
   * css format
   * js format
+  * html(js/css) format
   * local image auto uploader
   * svn submit/add/update
 
-  note: node.js is required.
+note: node.js is required.
 
 # install
 
